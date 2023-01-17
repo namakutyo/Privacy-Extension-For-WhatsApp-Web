@@ -1,11 +1,13 @@
-._7xcOR /*media preview in gallery*/,
+.ItfyB 
+._3nbHh /*media preview in gallery*/,
 ._1hZLd /*media preview in send media*/
 {
   filter: blur(12px) grayscale(1);
   transition-delay: 0s;
 }
 
-._7xcOR:hover /*media preview in gallery*/,
+.ItfyB:hover
+._3nbHh:hover /*media preview in gallery*/,
 ._1hZLd:hover /*media preview in send media*/
 {
   filter: blur(0) grayscale(0);
